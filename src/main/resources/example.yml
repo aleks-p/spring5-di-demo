@@ -1,0 +1,34 @@
+# this is a comment
+
+name: Aleks
+names: # comment
+  - John
+  - Warren
+  - Brittany
+  - Harry
+  - Jovan
+
+pound_sign: "#"
+
+book:
+  author: Joe
+  publisher: random
+
+truth: yes
+another_truth: True
+more_truth: true
+
+false: no
+
+string_val: "This is it's quote"
+
+colon_string: "Something: nothing"
+
+new_lines: |
+  abcd efg
+  hijk lmnop
+
+ignore_new_lines: >
+  abcd efg
+  hijk lmnop
+
